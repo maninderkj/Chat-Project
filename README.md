@@ -1,5 +1,6 @@
 Use step:
 
+```
 make
 ./chat_proj server 8001 # start server on port 8001
 ./chat_proj client 127.0.0.1:8001 # start a client to connect 127.0.0.1:8001
